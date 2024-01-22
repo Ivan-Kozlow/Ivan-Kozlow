@@ -17,8 +17,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Kozlow&theme=dark&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=portfolio&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/Pizza_React)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-frontend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=Pizza_React&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/Pizza_React)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-backend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=2116573-sedona-35&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-backend)
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Kozlow&theme=react&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
