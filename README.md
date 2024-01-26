@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://Ivan-Kozlow.github.io/portfolio" target="_blank">𝗜𝘃𝗮𝗻</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
+<h1 align="center">Hi, I'm <a href="https://Ivan-Kozlow.github.io/portfolio" target="_blank">𝗜𝘃𝗮𝗻 👋</a></h1>
 <h3 align="center">:star: Frontend React Dev :star:</h3>
 
 <br />
