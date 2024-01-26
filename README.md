@@ -15,6 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Kozlow&theme=dark&hide_border=true&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github.com/Ivan-Kozlow/Ivan-Kozlow/blob/output/github-contribution-grid-snake-dark.svg)
+
 <br />
 <h1 align="center">Favourites Projects</h1>
 <br />
