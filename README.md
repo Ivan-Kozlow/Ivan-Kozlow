@@ -23,7 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-frontend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=Pizza_React&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/Pizza_React)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-backend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=2116573-sedona-35&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=2116573-sedona-35&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/2116573-sedona-35)
 
 <br />
 
