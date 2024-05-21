@@ -25,9 +25,9 @@
 [![Red_planner-back](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=red-planner-backend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/red-planner-backend)
 [![Transactions-front](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=transactions-front&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/transactions-front)
 [![Transactions-back](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=transactions-back&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/transactions-back)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=portfolio&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/portfolio)
 [![ToDoApp-front](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-frontend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-frontend)
 [![ToDoApp-back](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-backend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-backend)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=portfolio&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/portfolio)
 
 <br />
 
