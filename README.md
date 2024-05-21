@@ -21,6 +21,7 @@
 <h1 align="center">Favourites Projects</h1>
 <br />
 
+[![Readme Card](https://github.com/Ivan-Kozlow/red-planner-frontend)](https://github.com/Ivan-Kozlow/red-planner-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=portfolio&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-frontend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=Pizza_React&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/Pizza_React)
