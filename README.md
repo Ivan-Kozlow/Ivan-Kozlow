@@ -21,11 +21,12 @@
 <h1 align="center">Favourites Projects</h1>
 <br />
 
-[![Red_planner](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=red-planner-frontend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/red-planner-frontend)
+[![Red_planner-front](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=red-planner-frontend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/red-planner-frontend)
+[![Red_planner-back](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=red-planner-backend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/red-planner-backend)
+[![Transactions-front](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=transactions-front&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/transactions-front)
 [![Transactions-back](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=transactions-back&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/transactions-back)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=portfolio&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/portfolio)
 [![ToDoApp-front](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-frontend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-frontend)
-[![React_Pizza](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=Pizza_React&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/Pizza_React)
 [![ToDoApp-back](https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Kozlow&repo=ToDoApp-backend&theme=dark&hide_border=true&border_radius=15)](https://github.com/Ivan-Kozlow/ToDoApp-backend)
 
 <br />
